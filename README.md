@@ -14,4 +14,4 @@ Python
 Streamlit (for building interactive web dashboards)
 Pandas (for data manipulation and analysis)
 Plotly Express (for map visualizations)
-Mapbox (for advanced map styling and rendering).
+Mapbox (for advanced map styling and rendering)
